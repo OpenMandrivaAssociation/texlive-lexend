@@ -1,6 +1,6 @@
 Name:		texlive-lexend
 Version:	57564
-Release:	1
+Release:	2
 Summary:	The Lexend fonts for XeLaTeX and LuaLaTeX through fontspec
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lexend
