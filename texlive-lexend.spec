@@ -3,7 +3,7 @@ Version:	57564
 Release:	2
 Summary:	The Lexend fonts for XeLaTeX and LuaLaTeX through fontspec
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lexend
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lexend
 License:	lppl1.3c ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lexend.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lexend.doc.r%{version}.tar.xz
